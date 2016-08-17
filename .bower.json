@@ -1,0 +1,13 @@
+{
+  "name": "CSS3MultiColumn",
+  "homepage": "https://github.com/BetleyWhitehorne/CSS3MultiColumn",
+  "_release": "fd01daff82",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fd01daff821410234c2ab75c1304ea5b444a7e35"
+  },
+  "_source": "https://github.com/BetleyWhitehorne/CSS3MultiColumn.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/BetleyWhitehorne/CSS3MultiColumn.git"
+}
